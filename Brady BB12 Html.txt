@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Link</title>
+</head>
+<body>
+    <a href="mailto:CentralITSupport@mannkindcorp.com?subject=Printer%20Issue:%20Brody%20BB12">Email Support</a>
+</body>
+</html>
